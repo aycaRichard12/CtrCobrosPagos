@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cobros.xsd" generated="2025-09-06T08:04:01">
+<cobros>
+<Idcobro>15</Idcobro>
+<idtipo>1</idtipo>
+<monto>400</monto>
+<fecha>2025-12-12T00:00:00</fecha>
+<fecha_sistema>2025-12-12T00:00:00</fecha_sistema>
+<idingreso>0</idingreso>
+<idtraza>2</idtraza>
+</cobros>
+<cobros>
+<Idcobro>17</Idcobro>
+<idtipo>2</idtipo>
+<monto>500</monto>
+<fecha>2025-06-12T00:00:00</fecha>
+<fecha_sistema>2025-02-12T00:00:00</fecha_sistema>
+<idingreso>13</idingreso>
+<idtraza>1</idtraza>
+</cobros>
+<cobros>
+<Idcobro>18</Idcobro>
+<idtipo>2</idtipo>
+<monto>300</monto>
+<fecha>2025-06-12T00:00:00</fecha>
+<fecha_sistema>2025-02-12T00:00:00</fecha_sistema>
+<idingreso>17</idingreso>
+<idtraza>1</idtraza>
+</cobros>
+</dataroot>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cobros_banco.xsd" generated="2025-09-06T08:04:33">
+<cobros_banco>
+<Idcobros_banco>2</Idcobros_banco>
+<idcobro>4</idcobro>
+<idcuenta>5</idcuenta>
+</cobros_banco>
+<cobros_banco>
+<Idcobros_banco>11</Idcobros_banco>
+<idcobro>15</idcobro>
+<idcuenta>2</idcuenta>
+</cobros_banco>
+<cobros_banco>
+<Idcobros_banco>13</Idcobros_banco>
+<idcobro>17</idcobro>
+<idcuenta>5</idcuenta>
+</cobros_banco>
+<cobros_banco>
+<Idcobros_banco>14</Idcobros_banco>
+<idcobro>18</idcobro>
+<idcuenta>5</idcuenta>
+</cobros_banco>
+</dataroot>
